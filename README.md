@@ -16,4 +16,5 @@ Just a collection of resources for anyone looking to do research with a bias tow
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
 | awesome-phd-advice   | Collection of advice for prospective and current PhD students | https://github.com/pliang279/awesome-phd-advice |
+| Awesome Database Development | Collection of materials on database development | https://github.com/huachaohuang/awesome-dbdev |
 
