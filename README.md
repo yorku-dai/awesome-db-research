@@ -2,6 +2,12 @@
 
 Just a collection of resources for anyone looking to do research with a bias towards data management research
 
+## 🔗 Table of Contents
+- 🏢 [Survival Guides](#survival-guides)
+- 📫 [Research Methodology](#research-methodology)
+- 📝 [Research Paper Repositories](#research-paper-repositories)
+- 📈 [Similar Collections](#similar-collections)
+
 ## Survival Guides
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
