@@ -7,6 +7,11 @@ Just a collection of resources for anyone looking to do research with a bias tow
 |:-----|:--------:|------:|
 | A Survival Guide to a PhD | A Survival Guide to a PhD by Andrej Karpathy | https://karpathy.github.io/2016/09/07/phd/ |
 
+## Research Methodology 
+| Name |  Description  | Link |
+|:-----|:--------:|------:|
+| How to Do Great Research   | Advice on research and creativity methods and techniques for Ph.D. students | https://greatresearch.org/ |
+
 ## Research Paper Repositories
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
