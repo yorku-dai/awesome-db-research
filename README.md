@@ -18,6 +18,12 @@ Just a collection of resources for anyone looking to do research with a bias tow
 |:-----|:--------:|------:|
 | How to Do Great Research   | Advice on research and creativity methods and techniques for Ph.D. students | https://greatresearch.org/ |
 
+## Writing a Research Paper 
+| Name |  Description  | Link |
+|:-----|:--------:|------:|
+| Tips for Publishing Research Code | Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations) | https://github.com/paperswithcode/releasing-research-code |
+| ML Reproducibility Tools and Best Practices | Commonly used tools and explain 12 basic practices that you can use in your research to ensure reproducible science | https://koustuvsinha.com/practices_for_reproducibility/ |
+
 ## Research Paper Repositories
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
