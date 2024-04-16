@@ -13,7 +13,7 @@ Just a collection of resources for anyone looking to do research with a bias tow
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
 | A Survival Guide to a PhD | A Survival Guide to a PhD by Andrej Karpathy | https://karpathy.github.io/2016/09/07/phd/ |
-| So long, and thanks for the PhD |A computer science graduate school survival guide, intended for prospective or novice graduate students. This guide focuses on mental toughness and the skills a graduate student needs. The guide also discusses finding a job after completing the PhD and points to many other related web pages. | https://www.cs.unc.edu/~azuma/hitch4.html |
+| So long, and thanks for the PhD | A computer science graduate school survival guide by Ronald T. Azuma, intended for prospective or novice graduate students. This guide focuses on mental toughness and the skills a graduate student needs. The guide also discusses finding a job after completing the PhD and points to many other related web pages. | https://www.cs.unc.edu/~azuma/hitch4.html |
 
 ## 📚 Research Methodology 
 | Name |  Description  | Link |
