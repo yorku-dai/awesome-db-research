@@ -31,6 +31,7 @@ Just a collection of resources for anyone looking to do research with a bias tow
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
 | ML4DB   | Paper list for database systems with artificial intelligence (machine learning, deep learning, reinforcement learning) | https://github.com/LumingSun/ML4DB-paper-list |
+| CMU 15-799 - Spring 2022 Special Topics: Self-Driving Database Management System | This is a graduate-level course on the application of automation via machine learning to database management systems | https://15799.courses.cs.cmu.edu/spring2022/ |
 
 ## 📈 Similar collections
 | Name |  Description  | Link |
