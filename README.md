@@ -20,6 +20,7 @@ Just a collection of resources for anyone looking to do research with a bias tow
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
 | How to Do Great Research   | Advice on research and creativity methods and techniques for Ph.D. students | https://greatresearch.org/ |
+| How to Read A Paper | This article outlines a practical and efficient three-pass method for reading research papers | https://people.mpi-sws.org/~jcmace/teaching/cds-ss20/paper-reading.pdf
 
 ## 📝 Writing a Research Paper 
 | Name |  Description  | Link |
