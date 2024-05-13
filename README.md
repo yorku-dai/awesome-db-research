@@ -20,7 +20,8 @@ Just a collection of resources for anyone looking to do research with a bias tow
 | Name |  Description  | Link |
 |:-----|:--------:|------:|
 | How to Do Great Research   | Advice on research and creativity methods and techniques for Ph.D. students | https://greatresearch.org/ |
-| How to Read A Paper | This article outlines a practical and efficient three-pass method for reading research papers | https://people.mpi-sws.org/~jcmace/teaching/cds-ss20/paper-reading.pdf
+| How to Read A Paper | This article outlines a practical and efficient three-pass method for reading research papers | https://people.mpi-sws.org/~jcmace/teaching/cds-ss20/paper-reading.pdf |
+| How to do good research, get it published in SIGKDD and get it cited!| Advice from Eamonn Keogh on how to do good research |https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf | 
 
 ## 📝 Writing a Research Paper 
 | Name |  Description  | Link |
@@ -33,6 +34,7 @@ Just a collection of resources for anyone looking to do research with a bias tow
 |:-----|:--------:|------:|
 | ML4DB   | Paper list for database systems with artificial intelligence (machine learning, deep learning, reinforcement learning) | https://github.com/LumingSun/ML4DB-paper-list |
 | CMU 15-799 - Spring 2022 Special Topics: Self-Driving Database Management System | This is a graduate-level course on the application of automation via machine learning to database management systems | https://15799.courses.cs.cmu.edu/spring2022/ |
+| AIDB | Paper list for database systems with AI by the Tsinghua Database Group | https://github.com/TsinghuaDatabaseGroup/AIDB |
 
 ## 📈 Similar collections
 | Name |  Description  | Link |
